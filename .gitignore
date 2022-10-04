@@ -1,0 +1,10 @@
+.idea
+.vscode
+.vs
+.eslintcache
+.stylelintcache
+node_modules
+dist
+build
+out
+coverage
